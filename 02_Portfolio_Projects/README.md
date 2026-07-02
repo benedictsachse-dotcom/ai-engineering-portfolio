@@ -1,30 +1,96 @@
-# AI Engineering Portfolio
+# AI Portfolio Projects
 
-This repository shows my journey building AI tools as a Mechanical Engineering student at Worcester Polytechnic Institute.
+This folder contains my primary AI software projects.
 
-# Focus Areas
+Each project is built using Python and the OpenAI API while following software engineering best practices including Git, GitHub, modular project organization, and secure environment variable management.
 
-- Engineering education tools
-- Semiconductor interview preparation
-- AI knowledge assistants
-- Future farm operations and manufacturing tools
+---
 
-# Current Projects
+# Featured Project
 
-### Engineering Knowledge Base
-Reads engineering notes from a text file and answers questions using only the provided notes.
+## AI Engineering Portal
 
-### Engineering Tutor
-AI-powered tutor for explaining engineering concepts using Python and the OpenAI API.
+A centralized launcher that connects multiple AI-powered engineering applications through one interface.
 
-### Semiconductor Interview Prep
-Generates technical interview practice for semiconductor and engineering roles.
+Current Modules:
 
-## Technologies
+- Engineering Tutor
+- Engineering Knowledge Base
+- Semiconductor Interview Prep
+
+Future modules:
+
+- Farm Operations Manager
+- Manufacturing Copilot
+- Resume Assistant
+
+Technologies:
 
 - Python
 - OpenAI API
-- Git & GitHub
-- Environment variables
+- Git
+- GitHub
+- Environment Variables
+
+---
+
+# Engineering Tutor
+
+An AI tutor designed to explain engineering concepts using beginner-friendly language.
+
+Features:
+
+- Simple explanations
+- Engineering-focused responses
+- Terminal interface
+- Secure API key management
+
+Skills Demonstrated:
+
+- Python
+- OpenAI API
+- Prompt Engineering
+- Environment Variables
+
+---
+
+# Engineering Knowledge Base
+
+Reads engineering notes from a text file and answers questions using only the provided notes.
+
+Features:
+
+- Local note retrieval
+- Context-aware AI responses
 - File handling
-- Prompt engineering
+- Engineering study assistant
+
+Skills Demonstrated:
+
+- Python
+- File Handling
+- OpenAI API
+- Prompt Engineering
+
+---
+
+# Semiconductor Interview Prep
+
+AI-powered interview preparation tool for semiconductor and manufacturing careers.
+
+Features:
+
+- Equipment Engineer interview practice
+- Process Engineer interview preparation
+- Semiconductor fundamentals
+- Technical questions and model answers
+
+Skills Demonstrated:
+
+- Python
+- OpenAI API
+- Prompt Engineering
+
+---
+
+More AI applications will be added as this portfolio expands.

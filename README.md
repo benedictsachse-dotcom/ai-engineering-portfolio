@@ -1,50 +1,72 @@
 # AI Engineering Portfolio
 
-Hi, I'm Benedict Sachse, a Mechanical Engineering student at Worcester Polytechnic Institute building AI tools for engineering, semiconductors, and future farm operations.
+I'm Benedict Sachse, a Mechanical Engineering student at Worcester Polytechnic Institute (WPI) with a passion for applying Artificial Intelligence to solve real engineering and operational problems.
 
-## Focus Areas
+This repository documents my journey from learning Python to building AI-powered software for engineering, semiconductor manufacturing, and agricultural operations.
 
-- Engineering education tools
-- Semiconductor interview preparation
-- AI knowledge assistants
-- Farm operations and manufacturing AI tools
+---
 
-## Featured Project: AI Engineering Portal
+# Current Focus Areas
 
-A Python-based launcher that connects multiple AI-powered tools into one system.
+- Artificial Intelligence
+- Mechanical Engineering
+- Semiconductor Manufacturing
+- Farm Operations Technology
+- Software Development
 
-### Included Tools
+---
 
+# Repository Structure
+
+## 01_Python_Fundamentals
+
+Exercises and projects completed while learning Python fundamentals.
+
+Topics include:
+
+- Variables
+- Loops
+- Functions
+- Lists
+- Dictionaries
+- File handling
+- APIs
+- Git
+
+---
+
+## 02_Portfolio_Projects
+
+A collection of AI-powered applications designed to solve real engineering and operational problems.
+
+Current projects include:
+
+- AI Engineering Portal
 - Engineering Tutor
 - Engineering Knowledge Base
-- Semiconductor Interview Prep AI
+- Semiconductor Interview Prep
 
-## Technologies Used
+---
+
+# Technologies
 
 - Python
 - OpenAI API
-- Git & GitHub
-- Environment variables
-- File handling
-- Prompt engineering
+- Git
+- GitHub
+- Environment Variables (.env)
+- Prompt Engineering
 
-## Current Portfolio Projects
+---
 
-### Engineering Tutor
-
-AI-powered tutor for explaining engineering concepts in beginner-friendly language.
-
-### Engineering Knowledge Base
-
-Reads engineering notes from a text file and answers questions using only the provided notes.
-
-### Semiconductor Interview Prep AI
-
-Generates technical interview preparation for equipment engineer, process engineer, and semiconductor internship roles.
-
-## Future Development
+# Future Projects
 
 - Farm Operations Manager
 - Manufacturing Copilot
-- PDF-based engineering knowledge base
-- Web app version of the AI Engineering Portal
+- Engineering Document Assistant
+- AI Customer Support System
+- AI Automation Workflows
+
+---
+
+This repository will continue to grow throughout my Mechanical Engineering degree as I develop practical AI applications for engineering, manufacturing, and agriculture.
