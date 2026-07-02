@@ -1,0 +1,8 @@
+Hooke's Law says the force in a spring is proportional to displacement.
+The equation is F = kx.
+F means force.
+k means spring constant.
+x means displacement.
+
+Stress is force divided by area.
+Strain is deformation divided by original length.
