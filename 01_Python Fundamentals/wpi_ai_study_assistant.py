@@ -20,7 +20,18 @@ elif "strain" in question.lower():
 
 elif "torque" in question.lower():
     print("Torque equals force times distance from the pivot.")
-    
+
+elif "stress" in question.lower():
+    print("Stress is force divided by area.")
+
+elif "strain" in question.lower():
+    print("Strain is deformation divided by original length.")
+
+elif "momentum" in question.lower():
+    print("Momentum equals mass times velocity.")
+
+elif "weight" in question.lower():
+    print("Weight equals mass times gravity.")
+
 else:
     print("I don't know that yet.")
-
