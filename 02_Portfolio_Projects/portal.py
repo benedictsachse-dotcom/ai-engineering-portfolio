@@ -15,6 +15,10 @@ PROJECTS = {
     "3": {
         "name": "Semiconductor Interview Prep",
         "file": "SemiconductorInterviewPrep/app.py"
+    },
+    "4": {
+    "name": "Farm Operations Manager",
+    "file": "FarmOperationsManager/app.py"
     }
 }
 
