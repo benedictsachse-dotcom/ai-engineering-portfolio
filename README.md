@@ -1,9 +1,10 @@
 # AI Engineering Portfolio
 
-I'm Benedict Sachse, a Mechanical Engineering student at Worcester Polytechnic Institute (WPI) with a passion for applying Artificial Intelligence to solve real engineering and operational problems.
+I'm Benedict Sachse, a Mechanical Engineering student at Worcester Polytechnic Institute (WPI) with a strong interest in the semiconductor industry, particularly in automation and process engineering.
 
-This repository documents my journey from learning Python to building AI-powered software for engineering, semiconductor manufacturing, and agricultural operations.
+I created this repository to strengthen my programming and AI skills through hands-on projects. While I am not a Computer Science major or Python specialist, I use my foundational Python knowledge to build practical applications that help me better understand software development, artificial intelligence, and automation.
 
+This portfolio documents my ongoing learning journey as I continue developing technical skills that complement my engineering background and prepare me for a career in semiconductor manufacturing.
 ---
 
 # Current Focus Areas
@@ -29,7 +30,7 @@ Topics include:
 - Functions
 - Lists
 - Dictionaries
-- File handling
+- File Handling
 - APIs
 - Git
 
@@ -37,7 +38,7 @@ Topics include:
 
 ## 02_Portfolio_Projects
 
-A collection of AI-powered applications designed to solve real engineering and operational problems.
+A collection of projects built to strengthen my software development and AI skills while exploring practical engineering applications.
 
 Current projects include:
 
@@ -69,4 +70,4 @@ Current projects include:
 
 ---
 
-This repository will continue to grow throughout my Mechanical Engineering degree as I develop practical AI applications for engineering, manufacturing, and agriculture.
+This repository will continue to evolve throughout my Mechanical Engineering degree as I expand my programming knowledge, strengthen my AI skills, and build practical applications for engineering, manufacturing, and agriculture.
