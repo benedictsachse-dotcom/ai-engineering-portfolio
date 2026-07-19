@@ -5,7 +5,9 @@ I'm Benedict Sachse, a Mechanical Engineering student at Worcester Polytechnic I
 I created this repository to strengthen my programming and AI skills through hands-on projects. While I am not a Computer Science major or Python specialist, I use my foundational Python knowledge to build practical applications that help me better understand software development, artificial intelligence, and automation.
 
 This portfolio documents my ongoing learning journey as I continue developing technical skills that complement my engineering background and prepare me for a career in semiconductor manufacturing.
+
 ---
+
 
 # Current Focus Areas
 
